@@ -1,0 +1,14 @@
+# Secrets and local database
+.env
+*.sqlite3
+*.sqlite3-journal
+*.sqlite3-wal
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local IDE, OS, and uploaded media
+.vscode/
+.DS_Store
+media/
